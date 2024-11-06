@@ -68,7 +68,7 @@ python main.py
 ---
 
 ## نتایج مدل‌ها (Not Normal)🔍
-![Diagram](pic/Screenshot (879).png)
+![Diagram](pic/res.png)
 
 ### 1. رگرسیون خطی (Linear Regression)
 
