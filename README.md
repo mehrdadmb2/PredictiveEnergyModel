@@ -1,4 +1,7 @@
 [![Mehrdad's Database](https://img.shields.io/badge/Database-Custom%20IoT%20Data-%23121011?style=plastic&logo=database&logoColor=white)]()
+![Database](https://img.shields.io/badge/Database-Custom%20owned%20data%20-%23121011?style=plastic&logo=database&logoColor=white) 
+![Sensor](https://img.shields.io/badge/Sensor-DHT22-%23FFCC00?style=plastic&logo=sensor&logoColor=black) 
+![Board](https://img.shields.io/badge/Board-ESP32-%2344CC11?style=plastic&logo=esp32&logoColor=white)
 
 > **دیتابیس**: داده‌های این پروژه با استفاده از سنسور **DHT22** از محیط خانه جمع‌آوری شده است. دما و رطوبت به عنوان داده‌های اصلی در این پایگاه داده ثبت شده‌اند. همچنین، برای مدل‌سازی بهتر، مصرف برق به صورت تصادفی و با توجه به شرایط دما و رطوبت با استفاده از یک فرمول محاسبه و به دیتابیس اضافه شده است. این روش به ما امکان پیش‌بینی مصرف انرژی را بر اساس شرایط محیطی فراهم می‌کند.
 
