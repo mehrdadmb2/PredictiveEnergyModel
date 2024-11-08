@@ -1,3 +1,9 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmehrdadmb2%2FV2ray_Sub&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://github.com/mehrdadmb2/V2ray_Sub)
+[![GitHub Stars](https://img.shields.io/github/stars/mehrdadmb2/V2ray_Sub?style=plastic&color=brightgreen&label=Stars)](https://github.com/mehrdadmb2/V2ray_Sub/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/mehrdadmb2/V2ray_Sub?style=plastic&color=blue&label=Forks)](https://github.com/mehrdadmb2/V2ray_Sub/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/mehrdadmb2/V2ray_Sub?style=plastic&color=orange&label=Issues)](https://github.com/mehrdadmb2/V2ray_Sub/issues)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/mehrdadmb2/V2ray_Sub?style=plastic&color=red&label=Last%20Commit)](https://github.com/mehrdadmb2/V2ray_Sub/commits/main)
+
 [![Mehrdad's Database](https://img.shields.io/badge/Database-Custom%20IoT%20Data-%23121011?style=plastic&logo=database&logoColor=white)]()
 ![Database](https://img.shields.io/badge/Database-Custom%20owned%20data%20-%23121011?style=plastic&logo=database&logoColor=white) 
 ![Sensor](https://img.shields.io/badge/Sensor-DHT22-%23FFCC00?style=plastic&logo=sensor&logoColor=black) 
